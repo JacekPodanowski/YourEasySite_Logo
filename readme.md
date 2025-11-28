@@ -5,9 +5,9 @@ https://raw.githubusercontent.com/JacekPodanowski/YourEasySite_Logo/main/yes-ava
 nie cień:
 https://raw.githubusercontent.com/JacekPodanowski/YourEasySite_Logo/main/yes-avatar.svg
 
-# JPG
+# PNG
 cień:
-https://raw.githubusercontent.com/JacekPodanowski/YourEasySite_Logo/main/yes-avatar-shadow.jpg
+https://raw.githubusercontent.com/JacekPodanowski/YourEasySite_Logo/main/shadow.png
 
 nie cień:
-https://raw.githubusercontent.com/JacekPodanowski/YourEasySite_Logo/main/yes-avatar.jpg
+https://raw.githubusercontent.com/JacekPodanowski/YourEasySite_Logo/main/yes%20-%20no%20shadow.png
