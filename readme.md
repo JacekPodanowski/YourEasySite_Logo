@@ -9,5 +9,8 @@ https://raw.githubusercontent.com/JacekPodanowski/YourEasySite_Logo/main/yes-ava
 cień:
 https://raw.githubusercontent.com/JacekPodanowski/YourEasySite_Logo/main/shadow.png
 
+cień maly:
+https://raw.githubusercontent.com/JacekPodanowski/YourEasySite_Logo/main/shadowSmall.png
+
 nie cień:
 https://raw.githubusercontent.com/JacekPodanowski/YourEasySite_Logo/main/yes%20-%20no%20shadow.png
